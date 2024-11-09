@@ -137,6 +137,3 @@ app.add_handler(CommandHandler("stopbot", stopbot_command))
 
 if __name__ == "__main__":
     app.run_polling()
-
-
-#print(token)
